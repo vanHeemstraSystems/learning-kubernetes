@@ -1,6 +1,7 @@
 learning-kubernetes
 # Learning Kubernetes
 
+- [k9s](./K9S.md)
 - [Minikube](./MINIKUBE.md)
 - [References](./REFERENCES.md)
 
