@@ -175,4 +175,4 @@ minikube service nginx --url
 minikube service nginx
 ```
 
-Veel succes! Als je ergens vastloopt, laat het me weten. Dit is een goede voorbereiding voor je Atos IDP project met Crossplane die je op 5 januari start.​​​​​​​​​​​​​​​​
+Veel succes! 
