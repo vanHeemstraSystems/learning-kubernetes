@@ -1,6 +1,8 @@
 learning-kubernetes
 # Learning Kubernetes
 
+- [References](./REFERENCES.md)
+
 ```
 learning-kubernetes/
 ├── README.md
