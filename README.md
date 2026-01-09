@@ -1,6 +1,7 @@
 learning-kubernetes
 # Learning Kubernetes
 
+- [Minikube](./MINIKUBE.md)
 - [References](./REFERENCES.md)
 
 ```
